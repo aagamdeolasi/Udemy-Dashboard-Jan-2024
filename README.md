@@ -3,12 +3,12 @@
 _**EduMatrix**_ analyzes Udemy courses, emphasizing the dominance of paid courses (91.6%) and a 4.5 Million lead in paid subscribers. Utilizing Power Query and Power BI, the project unveils market dynamics, preferred course levels, and revenue trends based on the Udemy Courses dataset from July 2011 to July 2017. Ideal for educators and industry enthusiasts, EduMatrix provides concise insights into Udemy's course preferences and market trends.
 
 
-## Screenshots
+## Dashboard
 
 ![Dashboard Screenshot](https://github.com/aagamdeolasi/Udemy-Dashboard-Jan-2024/blob/main/Dashboard%20SS.png?raw=true)
 
 
-## Demo
+## Project Link
 
 [EduMatrix: Unveiling the Artistry of Udemy's Learning Realm](https://app.powerbi.com/view?r=eyJrIjoiYjA4NjIzMmUtY2RiNS00MmUyLWIyZTItYTgxMzgzMDk0MzE1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 ## SKill Utilized
@@ -37,6 +37,12 @@ _**EduMatrix**_ analyzes Udemy courses, emphasizing the dominance of paid course
 - 📈 3.2K Avg. subscribers/course.
 - 🌟 157 Avg. reviews/course.
 - 💸 Avg. cost of Course: Rs. 66.27.
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aagamdeolasi.github.io/portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aagam-deolasi)
+
 
 
 ## Authors
